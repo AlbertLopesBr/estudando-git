@@ -17,7 +17,7 @@ dei um git status para verificar que aparece a mensagem em vermelho modified: os
 então dou um git add . para adicionar esses arquivos ao prompt
 em seguida dou um git commit -m "informo a mudança feita"
 por ultimo dou um git push
-dou f5 no site, clico na minha brench em main e master e verifico se subiu com a mudança feita
+dou f5 no site, clico na minha branch em main e master e verifico se subiu com a mudança feita
 
 VOLTAR A VERSAO ANTERIOR DO CODIGO
 
