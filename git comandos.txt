@@ -1,0 +1,11 @@
+git bash here = dentro da pasta pra iniciar
+git init = dentro do prompt para iniciar
+git status = para ver o status dos arquivos dentro da pasta
+git add "o nome do arquivo.extensao" =  para listar o arquivo da pasta
+git add . = para listar todos os arquivos da pasta
+git commit -m "commit inicial" = para iniciar primeira versão do arquivo
+git push --set-upstream origin master = enviar os comandos pra nuvem
+git remote add origin e escreve url do repositório = define para onde o codigo será enmviado na núvem
+
+no commits yet significa que não há versões do código/arquivo
+no primeiro acesso lista o email e nome do usuário da conta git
